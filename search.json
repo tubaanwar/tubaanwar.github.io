@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "title: “Projects” format: html: theme: cosmo —"
+  },
+  {
+    "objectID": "projects.html#nyc-real-estate-analysis",
+    "href": "projects.html#nyc-real-estate-analysis",
+    "title": "Projects",
+    "section": "NYC Real Estate Analysis",
+    "text": "NYC Real Estate Analysis\n\nAssignment 1 – Real Estate Report\nNYC Real Estate Forecasting"
+  },
+  {
+    "objectID": "projects.html#elmhurst-neighborhood-analysis",
+    "href": "projects.html#elmhurst-neighborhood-analysis",
+    "title": "Projects",
+    "section": "Elmhurst Neighborhood Analysis",
+    "text": "Elmhurst Neighborhood Analysis\n\nAssignment 3 – Market Analysis\nClustering & Hypothesis Testing"
+  },
+  {
+    "objectID": "projects.html#healthcare-analytics",
+    "href": "projects.html#healthcare-analytics",
+    "title": "Projects",
+    "section": "Healthcare Analytics",
+    "text": "Healthcare Analytics\n\nLaralex Hospital Case Study"
+  },
+  {
+    "objectID": "projects.html#additional-work",
+    "href": "projects.html#additional-work",
+    "title": "Projects",
+    "section": "Additional Work",
+    "text": "Additional Work\n\nAssignment 6"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Contact Me\nI’d love to connect! You can reach me here:\n\n📧 Email: tubaanwar135@gmail.com\n\n🔗 LinkedIn: linkedin.com/in/tuba-anwar-analyst\n\n💻 GitHub: github.com/tubaanwar"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I’m Tuba Anwar, a graduate student in Applied Business Analytics at Boston University, focused on turning raw data into clear, defensible recommendations. I enjoy building analyses that combine statistical rigor with practical storytelling for business stakeholders.\n\n\n\n\nMS, Applied Business Analytics — Boston University\n\nBBA, Business Administration — ICFAI University, Hyderabad\n\n\n\n\nLanguages & Tools: Python (NumPy, pandas, SciPy, Plotly), R, SQL, Tableau, Power BI, Excel, Git\nMethods: Forecasting, Regression, Clustering, Hypothesis Testing, SPC, Lean Six Sigma\nWorkflow: Data cleaning, feature engineering, visualization, dashboarding, report writing"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "",
+    "text": "MS, Applied Business Analytics — Boston University\n\nBBA, Business Administration — ICFAI University, Hyderabad"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "",
+    "text": "Languages & Tools: Python (NumPy, pandas, SciPy, Plotly), R, SQL, Tableau, Power BI, Excel, Git\nMethods: Forecasting, Regression, Clustering, Hypothesis Testing, SPC, Lean Six Sigma\nWorkflow: Data cleaning, feature engineering, visualization, dashboarding, report writing"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tuba Anwar",
+    "section": "",
+    "text": "MS in Applied Business Analytics, Boston University\nTurning data into decisions with Python, SQL, R, Tableau, and Excel.\nFocus areas: forecasting, dashboards, and process improvement.\n\nProjects About Contact"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Tuba Anwar",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\nLaralex Hospital Quality Analysis\nLean Six Sigma + SPC to improve hospital operations.\nRead case study\n\n\nNYC Real Estate Forecasting\nARIMA vs ETS models to forecast neighborhood sales and trends.\nRead report"
+  }
+]

@@ -1,0 +1,22 @@
+title: "Projects"
+format:
+  html:
+    theme: cosmo
+---
+
+# Projects
+
+## NYC Real Estate Analysis
+- [Assignment 1 – Real Estate Report](docs/Assignment1_NYC_RealEstate.pdf)
+- [NYC Real Estate Forecasting](docs/NYC_Real_Estate_Forecasting_Report.pdf)
+
+## Elmhurst Neighborhood Analysis
+- [Assignment 3 – Market Analysis](docs/Assignment3_Elmhurst.pdf)
+- [Clustering & Hypothesis Testing](docs/Assignment4_RAnalysis.pdf)
+
+## Healthcare Analytics
+- [Laralex Hospital Case Study](docs/cs%20lara%20hospital.docx)
+
+## Additional Work
+- [Assignment 6](docs/ASSIGNMENT6.docx)
+

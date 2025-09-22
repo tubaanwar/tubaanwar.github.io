@@ -1,0 +1,40 @@
+---
+title: "Tuba Anwar"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+---
+
+::: {.hero}
+::: {.hero-grid}
+
+![](images/tuba.jpeg){.hero-photo width="160" style="border-radius:50%;"}
+
+# Tuba Anwar  
+MS in Applied Business Analytics, Boston University
+
+Turning data into decisions with **Python, SQL, R, Tableau, and Excel**.  
+Focus areas: forecasting, dashboards, and process improvement.
+
+<div class="hero-cta" style="margin-top:14px;">
+  <a class="btn btn-primary" href="projects.qmd">Projects</a>
+  <a class="btn btn-outline-secondary" href="about.qmd">About</a>
+  <a class="btn btn-outline-secondary" href="contact.qmd">Contact</a>
+</div>
+
+:::
+:::
+
+---
+
+## Featured Projects
+
+### Laralex Hospital Quality Analysis  
+Lean Six Sigma + SPC to improve hospital operations.  
+[Read case study](docs/cs%20lara%20hospital.docx)
+
+### NYC Real Estate Forecasting  
+ARIMA vs ETS models to forecast neighborhood sales and trends.  
+[Read report](docs/NYC_Real_Estate_Forecasting_Report.pdf)
+

@@ -1,0 +1,24 @@
+---
+title: "About"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+---
+
+# About Me
+
+::: {style="display:flex;align-items:center;gap:20px;margin-bottom:18px;"}
+![](images/tuba.jpeg){width=180 style="border-radius:50%;box-shadow:0 4px 10px rgba(0,0,0,.2);"}
+
+I’m **Tuba Anwar**, a graduate student in **Applied Business Analytics** at Boston University, focused on turning raw data into clear, defensible recommendations. I enjoy building analyses that combine **statistical rigor** with **practical storytelling** for business stakeholders.
+:::
+
+## Education
+- **MS, Applied Business Analytics** — Boston University  
+- **BBA, Business Administration** — ICFAI University, Hyderabad
+
+## Skills
+**Languages & Tools:** Python (NumPy, pandas, SciPy, Plotly), R, SQL, Tableau, Power BI, Excel, Git  
+**Methods:** Forecasting, Regression, Clustering, Hypothesis Testing, SPC, Lean Six Sigma  
+**Workflow:** Data cleaning, feature engineering, visualization, dashboarding, report writing

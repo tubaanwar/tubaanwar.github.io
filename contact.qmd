@@ -1,0 +1,15 @@
+---
+title: "Contact"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+---
+
+# Contact Me
+
+I’d love to connect! You can reach me here:
+
+- 📧 **Email:** [tubaanwar135@gmail.com](mailto:tubaanwar135@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/tuba-anwar-analyst](https://www.linkedin.com/in/tuba-anwar-analyst/)  
+- 💻 **GitHub:** [github.com/tubaanwar](https://github.com/tubaanwar)
